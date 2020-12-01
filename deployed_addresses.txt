@@ -1,0 +1,15 @@
+Rinkeby Contract Address: 0x7cd3cb57c0bca9316969493e9de0106c453cf0a9
+Etherscan: https://rinkeby.etherscan.io/address/0x7cd3cb57c0bca9316969493e9de0106c453cf0a9#code
+Tx: https://rinkeby.etherscan.io/tx/0xebdc8e6e8e4d59780850fabdc244f3a83bc33524fe3e051380f84d48ad22fe38
+
+It was deployed using Remix and here are additional files:
+
+Metadata of "simplelibrary" was published successfully.
+browser/SimpleLibrary.sol : 
+dweb:/ipfs/QmPnxrXjvHaqiieKFELakamM4cTexGo9wE75v3qe9XWmvH
+https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v3.3/contracts/GSN/Context.sol : 
+dweb:/ipfs/QmfBrGtQP7rZEqEg6Wz6jh2N2Kukpj1z5v3CGWmAqrzm96
+https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v3.3/contracts/utils/Pausable.sol : 
+dweb:/ipfs/QmRVgUK6yHgqiVWoFn51aUGYejR8romW2ZqwVvSFMnhnJW
+metadata.json : 
+dweb:/ipfs/QmZYkCR8EDnPefptrBodatoLCM6udCKQPqgDZDTqD1amkT
