@@ -15,7 +15,7 @@ contract SimpleLibrary is Pausable {
   address owner;
 
   /* Variable for tracking total number of books in catalog */
-  uint bookId;
+  uint public bookId;
 
   /* Books Mapping
   */
